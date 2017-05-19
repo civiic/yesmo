@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -10,11 +9,20 @@
       <html>
 <br>
 <body>
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-<h2>Less important information</h2>
+<h1>Toronto, Canada</h1>
+  <p>A very nice city</p>
+<h2>
+  <b>Why Canada?</b>
+  <p> Also known as <i>Canadia</i>, North America's largest and northermost country is a really nice place. It gets very cold. If you like snow or extremely cold weather, you'll love Canada. </p>
+</h2>
 <blockquote cite="https://en.wikipedia.org/wiki/Toronto">
-Toronto, the capital of the province of Ontario, is a major Canadian city along Lake Ontario’s northwestern shore. It's a dynamic metropolis with a core of soaring skyscrapers, all dwarfed by the iconic CN Tower.
+Toronto, the capital of the province of Ontario,
+<br>
+is a major Canadian city along Lake Ontario’s northwestern
+<br>
+shore. It's a dynamic metropolis with a core of soaring
+<br>
+skyscrapers, all dwarfed by the iconic CN Tower.
 </blockquote>
 <ul>
   <li>Toronto is in Canada</li>
