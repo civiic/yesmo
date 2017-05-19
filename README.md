@@ -3,14 +3,12 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>new-site</title>
     <link href="/new-site/assets/css/style.css?v=41c7748ae95a87d32eea38b1b0f267e17928bf8f" rel="stylesheet">
   </head>
   <body>
     <div class="container markdown-body">
       <html>
-<title>A</title>
-<br />
+<br>
 <body>
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
@@ -24,8 +22,4 @@ Toronto, the capital of the province of Ontario, is a major Canadian city along 
 </ul>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gardiner_Expressway_Downtown_Toronto.jpg/1920px-Gardiner_Expressway_Downtown_Toronto.jpg" alt="City of Toronto" style="width:600px;height:400px;" />
 </body>
-</html>
-
-    </div>
-  </body>
 </html>
